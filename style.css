@@ -109,7 +109,7 @@ header p {
     font-size: 1.8em;
     color: #FFFFFF;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5); 
-    background-color: rgba(255,105,180, 0.7); /* Fundo semi-transparente para leitura */
+    /* REMOVIDO: background-color: rgba(255,105,180, 0.7); */ 
     padding: 10px 20px;
     border-radius: 10px;
 }
